@@ -1,8 +1,8 @@
-# Xuehui1.github.io
+# junhui1997.github.io
 
 My personal website
 
-https://xuehui1.github.io/
+https://junhui1997.github.io/
 
 
 
